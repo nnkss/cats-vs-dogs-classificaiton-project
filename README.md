@@ -38,7 +38,7 @@ Henüz bir **deployment (Streamlit, Flask vb.)** yapılmamıştır.
 ## Sonuç ve Gelecek Çalışmalar
 Bu proje, benim için **CNN tabanlı image classification** konusunda bir başlangıç niteliği taşımaktadır.
 Bu nedenle bazı kodları yazarken ve fikirleri geliştirirken AI araçlarından destek aldım. Bu süreç, öğrenme ve geliştirme deneyimime katkı sağladı; tüm kodları ve hiperparametre seçimlerini kendim anlayarak uyguladım.
-Bazı aşamalarda özellikle Grad-CIM ve Agent-CIM görselleştirmeleri teknik kısıtlamalar ve veri dosyalarındaki sorunlar nedeniyle tamamlanamadı. Ancak modelin eğitimi, hiperparametre optimizasyonu ve doğrulama süreçleri tamamlandı.
+Bazı aşamalarda özellikle Grad-CAM ve Eigen-CAM görselleştirmeleri teknik kısıtlamalar ve veri dosyalarındaki sorunlar nedeniyle tamamlanamadı. Ancak modelin eğitimi, hiperparametre optimizasyonu ve doğrulama süreçleri tamamlandı.
 
 Gelecekte modeli geliştirmek için: 
 - Heatmap görselleştirmeleri eklenebilir. 
