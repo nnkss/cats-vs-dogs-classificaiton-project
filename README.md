@@ -46,7 +46,7 @@ Gelecekte modeli geliştirmek için:
 - Daha büyük ve dengeli veri setleri kullanılabilir.  
 - Kullanıcı dostu bir arayüzü ile deploy edilebilir.
 - Modelin kaydedilmesi ve yüklenmesi (`model.save()` & `load_model`) yapılabilir. 
-- Veri artırma (data augmentation) yöntemlerini çeşitlendirilebilir.  
+- Veri artırma (data augmentation) yöntemleri çeşitlendirilebilir.  
 - Gerçek zamanlı veri ile güncellemeler yapılabilir.
 - Transfer Learning (örn. VGG16, ResNet) ile daha güçlü sonuçlar alınabilir.  
 
